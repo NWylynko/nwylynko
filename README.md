@@ -3,7 +3,7 @@
 
 **🐱 My Github Data** 
 
-> 🏆 333 Contributions in the Year 2021
+> 🏆 337 Contributions in the Year 2021
  > 
 > 📦 1.1 MB Used in Github's Storage 
  > 
@@ -42,18 +42,16 @@ Sunday       131 commits    ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Australia/Perth
 
 💬 Programming Languages: 
-TypeScript               2 hrs 55 mins       █████████████████████████   99.78% 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.17% 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.05%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  2 hrs 56 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Cones-Vintage            2 hrs 56 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      2 hrs 56 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
