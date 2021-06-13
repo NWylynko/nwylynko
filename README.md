@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
 
 **🐱 My Github Data** 
 
@@ -76,5 +76,5 @@ Shell                    3 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/NWylynko/NWylynko/main/charts/bar_graph.png) 
 
 
- Last Updated on 12/06/2021
+ Last Updated on 13/06/2021
 <!--END_SECTION:waka-->
