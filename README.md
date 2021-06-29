@@ -42,16 +42,16 @@ Sunday       198 commits    ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Australia/Perth
 
 💬 Programming Languages: 
-TypeScript               2 hrs 7 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  2 hrs 7 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-budget-YouTube           2 hrs 7 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    2 hrs 7 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -72,5 +72,5 @@ Shell                    3 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/NWylynko/NWylynko/main/charts/bar_graph.png) 
 
 
- Last Updated on 28/06/2021
+ Last Updated on 29/06/2021
 <!--END_SECTION:waka-->
