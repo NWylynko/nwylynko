@@ -1,9 +1,9 @@
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 596 Contributions in the Year 2021
+> 🏆 597 Contributions in the Year 2021
  > 
 > 📦 1.1 MB Used in Github's Storage 
  > 
@@ -27,11 +27,11 @@
 ```text
 Monday       170 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.92% 
 Tuesday      199 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.12% 
-Wednesday    270 commits    █████░░░░░░░░░░░░░░░░░░░░   20.52% 
+Wednesday    269 commits    █████░░░░░░░░░░░░░░░░░░░░   20.44% 
 Thursday     181 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.75% 
 Friday       138 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   10.49% 
 Saturday     160 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.16% 
-Sunday       198 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.05%
+Sunday       199 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.12%
 
 ```
 
@@ -80,5 +80,5 @@ Shell                    3 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/NWylynko/NWylynko/main/charts/bar_graph.png) 
 
 
- Last Updated on 11/07/2021
+ Last Updated on 12/07/2021
 <!--END_SECTION:waka-->
